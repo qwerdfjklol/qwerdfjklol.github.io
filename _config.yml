@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chi Zhang (张弛)"
-description              : 
+description              : "First Year Ph.D. Student @ CUHK"
 repository               : 
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chi Zhang (张弛)"
   avatar           : "images/profile.png"
-  bio              : "First Year Ph.D. Student @ CUHK"
+  bio              : 
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
